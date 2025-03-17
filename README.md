@@ -1,4 +1,7 @@
-# JohnBoard
+This is a part of [hackpad](https://github.com/hackclub/hackpad)
+
+---
+# Keyboard
 
 Really happy with what I made. I might update the art on the PCB, but I just wanted to get this in so I could make sure everything is good!
 
@@ -43,6 +46,7 @@ Use discount code **"NABI"** for $10 off + Free shipping.
 | 5x EC11 Encoder | [AliExpress](https://www.aliexpress.us/item/3256804721655912.html) | $1 |
 | 5x MCP23017-E/SO | [AliExpress](https://www.aliexpress.us/item/3256804879739346.html) | $1 |
 | 20x 2.2 uF Capacitors| [AliExpress](https://www.aliexpress.us/item/3256802575315688.html) | $1 |
+| 1x 1.9" IPS LCD Display| [AliExpress](https://www.aliexpress.us/item/3256807766408401.html) | $1 |
 ---
 
 ### **Other Stuff:**
